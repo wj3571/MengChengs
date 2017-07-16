@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#1aabff</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="BackgroudBlue">#1aabff</color>
+    <color name="White">#FFFFFF</color>
+    <color name="ffffff">#ffffff</color>
+    <color name="Background">#eeeeee</color>
+    <color name="light_color">#8E8E8E</color>
+    <color name="Line">#DFDDDD</color>
+    <color name="color_009def">#009def</color>
+    <color name="color_2fb2fe">#2fb2fe</color>
+    <color name="color_ff5001">#ff5001</color>
+    <color name="theme_body">#cc22292c</color>
+    <color name="status_bar">#303135</color>
+    <color name="f1f1f1">#f1f1f1</color>
+    <color name="d9d9d9">#d9d9d9</color>
+    <color name="f9f9f9">#f9f9f9</color>
+    <color name="gray">#8e8e8e</color>
+    <color name="main_color">#2a2a2a</color>
+    <color name="Orange">#FCCC46</color>
+    <color name="Line_D9">#D9D9D9</color>
+    <color name="text_fuhao">#ff434e</color>
+    <color name="color_46cf02">#46cf02</color>
+    <!--Hsia add colors-->
+    <color name="whitef1">#F1F1F1</color>
+    <color name="fenleiColor">#2a2a2a</color>
+    <color name="gray8e">#8e8e8e</color>
+    <color name="backColor">#1aabff</color>
+    <color name="nocolor">#00ffffff</color>
+    <color name="color_35b613">#35b613</color>
+    <color name="cccccc">#cccccc</color>
+
+    <color name="text_b4b4b4">#b4b4b4</color>
+
+    <color name="color_17ab56">#17ab56</color>
+    <color name="BackgroudRed">#FF5656</color>
+
+    <color name="color_00">#8A000000</color>
+    <color name="d4d4d">#4D4D4D</color>
+
+
+    <color name="blue">#0000FF</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="LightGrey">#D3D3D3</color>
+    <color name="Gray">#808080</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="color_aaaaaa">#aaaaaa</color>
+    <color name="green">#00CD00</color>
+    <color name="six_3">#333333</color>
+    <color name="six_6">#666666</color>
+
+    <color name="fill_color">#dfdbdb</color>
+
+    <color name="six_9">#999999</color>
+
+
+    <color name="transparent_gray">#595c5a5a</color>
 </resources>

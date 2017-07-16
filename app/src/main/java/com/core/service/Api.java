@@ -63,7 +63,7 @@ public class Api {
                             .addHeader("x-platform", PLATFORM)
                             .addHeader("x-client", CLIENT);
 
-                    addAuthorizationHeader(req);
+                    //addAuthorizationHeader(req);
                     Response response = chain.proceed(req.build());
                     return response.newBuilder().build();
                 });
