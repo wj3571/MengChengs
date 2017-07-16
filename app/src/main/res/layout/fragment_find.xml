@@ -6,8 +6,8 @@
 
     <include layout="@layout/include_top" />
 
-    <com.core.utils.persistence.TStatusView
-        android:id="@+id/tStatusView"
+    <com.core.utils.persistence.SwipeRecyclerViewWithStatusView
+        android:id="@+id/recycle_swipe"
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>

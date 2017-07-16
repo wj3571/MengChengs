@@ -12,11 +12,11 @@ import com.mengcheng.R;
  * Created by wangjia on 2017/7/16.
  */
 
-public class WaitDealAdpater extends RecyclerView.Adapter<WaitDealAdpater.MyHolder> {
+public class SuperviseDealAdapter extends RecyclerView.Adapter<SuperviseDealAdapter.MyHolder> {
 
     Context context;
 
-    public WaitDealAdpater(Context context) {
+    public SuperviseDealAdapter(Context context) {
         this.context = context;
     }
 

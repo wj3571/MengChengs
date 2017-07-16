@@ -19,8 +19,7 @@ import butterknife.ButterKnife;
 * */
 public class WelcomeActivity extends BasePresenterActivity {
 
-    @BindView(R.id.title_template)
-    TextView titleTemplate;
+
     private int recLen = 3;
     Timer timer = new Timer();
 
