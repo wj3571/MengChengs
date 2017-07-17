@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Mengcheng</string>
+    <string name="app_name">蒙城电网</string>
+    <string name="tag_index">index</string>
+    <string name="exit_app">再按一次退出程序！</string>
 </resources>
